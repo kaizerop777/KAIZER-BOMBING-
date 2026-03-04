@@ -2,7 +2,7 @@ Here is a professional, modernized version of the `README.md` adapted for your r
 
 ***
 
-# SMS-Bomber-Nepal
+# SMS-Bomber-Nepal (KAIZER-BOMBING)
 
 A robust Python-based tool designed to stress-test communication interfaces by sending a high volume of SMS messages to Nepali mobile numbers.
 
@@ -25,7 +25,7 @@ SMS-Bomber-Nepal is a service discovery and testing utility. It leverages multip
 ## Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kaizerop/SMS-Bomber-Nepal.git
+   git clone https://github.com/kaizerop777/KAIZER-BOMBING-.git
    cd SMS-Bomber-Nepal
    ```
 
