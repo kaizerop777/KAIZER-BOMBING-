@@ -49,7 +49,7 @@ Contributions are welcome to maintain the reliability of the tool and expand API
 2. Implement your requested features or API additions.
 3. Submit a Pull Request.
 4. As this tool is very dangerous and can create many consequences if it goes in wrong hand if you really want contact me in telegram @kaizer695
-For bugs or feature requests, please open an [Issue](https://github.com/kaizerop777/KAIZER-BOMBING/issues).
+For bugs or feature requests, please open an [Issue](https://github.com/kaizerop777/KAIZER-BOMBING-/issues).
 
 ## License
 This project is licensed under the **Apache License, Version 2.0**. See the [LICENSE](LICENSE) file for more details.
