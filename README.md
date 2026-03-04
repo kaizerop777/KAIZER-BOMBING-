@@ -1,7 +1,7 @@
 # SMS-Bomber-Nepal (KAIZER-BOMBING)
 
 A robust Python-based tool designed to stress-test communication interfaces by sending a high volume of SMS messages to Nepali mobile numbers.
-
+## As this tool is very dangerous and can create many bad consequences if it goes in wrong hand if you really want contact me in telegram @kaizer695
 ## Overview
 SMS-Bomber-Nepal is a service discovery and testing utility. It leverages multiple public-facing SMS gateway APIs to automate the delivery of messages. This project is intended for security research, API endpoint stress testing, and educational purposes to understand request rate-limiting and service orchestration in a telecommunications context.
 
@@ -48,8 +48,8 @@ Contributions are welcome to maintain the reliability of the tool and expand API
 1. Fork the repository.
 2. Implement your requested features or API additions.
 3. Submit a Pull Request.
-4. As this tool is very dangerous and can create many consequences if it goes in wrong hand if you really want contact me in telegram @kaizer695
-For bugs or feature requests, please open an [Issue](https://github.com/kaizerop777/KAIZER-BOMBING-/issues).
+
+## For bugs or feature requests, please open an [Issue](https://github.com/kaizerop777/KAIZER-BOMBING-/issues).
 
 ## License
 This project is licensed under the **Apache License, Version 2.0**. See the [LICENSE](LICENSE) file for more details.
